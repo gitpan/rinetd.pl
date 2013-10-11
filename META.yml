@@ -24,4 +24,6 @@ requires:
   IO::Event: 0.809
   Net::Netmask: 0
   Pod::Usage: 0
-version: 1.2
+resources:
+  repository: http://github.com/muir/rinetd.pl
+version: 1.21
